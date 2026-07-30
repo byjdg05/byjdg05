@@ -1,7 +1,5 @@
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" />
 
-# Hi there! 👋
-
 I'm **Nash**, a web and app development student from the Philippines currently studying at **FEU Institute of Technology**.
 
 I'm passionate about technology and constantly expanding my knowledge of web development, software engineering, and modern development tools. My goal is to become a developer who not only builds functional applications but also understands how and why they work.
