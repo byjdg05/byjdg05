@@ -16,6 +16,7 @@ Let's connect and build something awesome!
 
 ## 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nash.dk)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashdg)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashdeguia13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashdg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_nash.dk)
+[![Email](https://img.shields.io/badge/Email-jonashdeguia13%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonashdeguia13@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Coming%20Soon-181717?style=flat&logo=googlechrome&logoColor=white)](#)
