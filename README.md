@@ -18,4 +18,4 @@ Let's connect and build something awesome!
 
 🌐 Website: *Coming Soon* 📧 Email: <a href="mailto:jonashdeguia13@gmail.com">jonashdeguia13@gmail.com</a> 
 💼 LinkedIn: <a href="https://linkedin.com/in/nashdg">linkedin.com/in/nashdg</a> 
-📸 Instagram: <a href="https://instagram.com/_nash.dk">@_nash.dk</a>
+https://instagram.com/_nash.dk
