@@ -1,4 +1,4 @@
-# Hi there! <img src="assets/petclaude.gif" width="35" />
+# Hi there! <img src="assets/petclaude.gif" width="35" /> <img src="assets/petclaude.gif" width="35" style="border-radius:50%;">
 
 I'm **Nash**, a web and app development student from the Philippines currently studying at **FEU Institute of Technology**.
 
