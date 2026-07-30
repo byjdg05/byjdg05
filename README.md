@@ -1,12 +1,20 @@
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" />
 
-I'm **Nash** from the Philippines, currently studying **Web and App Development** at **FEU Institute of Technology**.
+# Hi there! 👋
 
-I'm passionate about technology and continuously learning web development, software engineering, and modern tools. Alongside coding, I also run online businesses focused on digital products and content creation.
+I'm **Nash**, a web and app development student from the Philippines currently studying at **FEU Institute of Technology**.
 
-Outside of tech, I enjoy producing music, editing videos with After Effects, and playing online games. I love working independently, but I'm always open to learning from different people and perspectives—especially when it comes to technology and business.
+I'm passionate about technology and constantly expanding my knowledge of web development, software engineering, and modern development tools. My goal is to become a developer who not only builds functional applications but also understands how and why they work.
 
-I'm currently building projects, improving my skills, and sharing my journey here on GitHub.
+Alongside my studies, I run several online businesses focused on digital products and content creation. Working on these projects has taught me valuable skills in problem-solving, creativity, and building systems that reach people around the world.
+
+Outside of coding, I enjoy producing music, creating visual content with Adobe After Effects, and exploring new ideas in business and entrepreneurship. I also enjoy playing online games and staying up to date with new technology.
+
+I enjoy working independently, but I also value learning from others. I believe that hearing different perspectives—whether in software development, business, or life—is one of the fastest ways to grow.
+
+I'm currently building projects, sharpening my development skills, and documenting my journey here on GitHub.
+
+Let's connect and build something awesome!
 
 ## 🌐 Connect with me
 
