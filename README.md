@@ -1,4 +1,4 @@
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" />
+# Hi there! <img src="[https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif](https://slackmojis.com/emojis/137844-petclaude/download)" width="30" />
 
 I'm **Nash**, a web and app development student from the Philippines currently studying at **FEU Institute of Technology**.
 
