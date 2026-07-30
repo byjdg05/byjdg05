@@ -16,6 +16,6 @@ Let's connect and build something awesome!
 
 ## 🌐 Connect with me
 
-🌐 Website: *Coming Soon* 📧 Email: <a href="mailto:jonashdeguia13@gmail.com">jonashdeguia13@gmail.com</a> 
-💼 LinkedIn: <a href="https://linkedin.com/in/nashdg">linkedin.com/in/nashdg</a> 
-https://instagram.com/_nash.dk
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nash.dk)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashdg)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashdeguia13@gmail.com)
